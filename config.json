@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "usersncrypt",
+        "uuid": 19989840,
+        "checksum": "oycqjs"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
